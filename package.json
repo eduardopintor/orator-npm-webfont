@@ -1,0 +1,25 @@
+{
+  "name": "orator-npm-webfont",
+  "version": "0.0.1",
+  "description": "Orator Std webfont package",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"No test !!!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroluk/orator-npm-webfont.git"
+  },
+  "keywords": [
+    "orator",
+    "npm",
+    "webfont",
+    "adobe"
+  ],
+  "author": "Leandroluk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandroluk/orator-npm-webfont/issues"
+  },
+  "homepage": "https://github.com/leandroluk/orator-npm-webfont#readme"
+}

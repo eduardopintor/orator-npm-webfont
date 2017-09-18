@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'OratorStd';
+    src: local('OratorStd'), 
+         local('OratorStd'), 
+         url('fonts/OratorStd.woff2') format('woff2'), 
+         url('fonts/OratorStd.woff') format('woff'), 
+         url('fonts/OratorStd.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

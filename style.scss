@@ -1,0 +1,15 @@
+// directory 
+$oratorstd-npm-webfont-dir:"fonts" !default;
+// font"s array configuration
+$oratorstd-npm-webfont-fonts: "OratorStd";
+
+@font-face {
+    font-family: $oratorstd-npm-webfont-fonts;
+    src: local($oratorstd-npm-webfont-fonts),
+    local($oratorstd-npm-webfont-fonts),
+    url("#{$oratorstd-npm-webfont-dir}/#{$oratorstd-npm-webfont-fonts}.woff2") format("woff2"),
+    url("#{$oratorstd-npm-webfont-dir}/#{$oratorstd-npm-webfont-fonts}.woff") format("woff"),
+    url("#{$oratorstd-npm-webfont-dir}/#{$oratorstd-npm-webfont-fonts}.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
